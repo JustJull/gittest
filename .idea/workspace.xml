@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96f2b2f5-6179-4197-bf3c-9d4aa4779820" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2.list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2.var.py" afterDir="false" />
+    <list default="true" id="96f2b2f5-6179-4197-bf3c-9d4aa4779820" name="Default Changelist" comment="dz2">
+      <change afterPath="$PROJECT_DIR$/условие if (dz3).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dz2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/dz2.1.py" afterDir="false" />
     </list>
@@ -22,6 +20,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/JustJull/gittest.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1Wz1Hzs8piVZpqC0ciQbtI7mgc2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -36,14 +42,32 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.dz2.var">
-    <configuration name="dz2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.условие if (dz3)">
+    <configuration name="условие if (dz3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QAclasses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/условие if (dz3).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dz2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QAclasses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -62,6 +86,9 @@
       <module name="QAclasses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -99,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.условие if (dz3)" />
+        <item itemvalue="Python.dz2.1" />
         <item itemvalue="Python.dz2.var" />
         <item itemvalue="Python.dz2.list" />
         <item itemvalue="Python.dz2.list" />
-        <item itemvalue="Python.dz2.list" />
-        <item itemvalue="Python.dz2.1" />
       </list>
     </recent_temporary>
   </component>
@@ -118,44 +145,60 @@
       <option name="presentableId" value="Default" />
       <updated>1580137526123</updated>
     </task>
+    <task id="LOCAL-00001" summary="dz2">
+      <created>1580155383003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580155383003</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dz2" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz2" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1580155300054">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1580155498778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580155300054" />
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580155498778" />
     <state x="147" y="71" key="DiffContextDialog" timestamp="1580155201276">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="71" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1580155201276" />
-    <state width="1364" height="195" key="GridCell.Tab.0.bottom" timestamp="1580154633569">
+    <state width="1364" height="195" key="GridCell.Tab.0.bottom" timestamp="1580331678537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580154633569" />
-    <state width="1364" height="195" key="GridCell.Tab.0.center" timestamp="1580154633569">
+    <state width="1364" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580331678537" />
+    <state width="1364" height="195" key="GridCell.Tab.0.center" timestamp="1580331678537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580154633569" />
-    <state width="1364" height="195" key="GridCell.Tab.0.left" timestamp="1580154633569">
+    <state width="1364" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580331678537" />
+    <state width="1364" height="195" key="GridCell.Tab.0.left" timestamp="1580331678537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580154633569" />
-    <state width="1364" height="195" key="GridCell.Tab.0.right" timestamp="1580154633569">
+    <state width="1364" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580331678537" />
+    <state width="1364" height="195" key="GridCell.Tab.0.right" timestamp="1580331678537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580154633569" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1580154948878">
+    <state width="1364" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580331678537" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1580155660419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580154948878" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580155660419" />
     <state x="524" y="147" key="VcsDiffUtil.ChangesDialog" timestamp="1580155155044">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="524" y="147" key="VcsDiffUtil.ChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1580155155044" />
-    <state x="470" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580154744293">
+    <state x="470" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580327765885">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580154744293" />
+    <state x="470" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580327765885" />
+    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580331727084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1580331727084" />
   </component>
 </project>
