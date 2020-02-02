@@ -5,7 +5,10 @@ b = int(input("Введите максимально возможное знач
 def function1():
     from random import randint
     list = [randint(a, b) for i in range(a)]
-    print(list)
+    if b > 7:
+        list = [i for i in list if i > 7]
+        print("Значения больше 7: ", list)
+    else: print("Спробуй ще!")
 
 
 function1()
